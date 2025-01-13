@@ -9,7 +9,6 @@
 <img alt="jsx" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/JSX-1f2326?style=for-the-badge&logo=jsx" />
 <img alt="TypeScript" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/TypeScript-1f2326?style=for-the-badge&logo=typescript" />
 <br />
-<br />
 
 ### Libs and Frameworks:
 
@@ -19,14 +18,12 @@
 <img alt="reactrouter" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/REACT ROUTER-1f2326?style=for-the-badge&logo=reactrouter&logoColor=CA4245" />&nbsp;
 <img alt="jquery" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/JQUERY-1f2326?style=for-the-badge&logo=jquery&logoColor=0769AD" />&nbsp;
 <br />
-<br />
 
 ### Building Tools:
 
 <img alt="gulp" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/GULP-1f2326?style=for-the-badge&logo=gulp" />&nbsp;
 <img alt="webpack" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/WEBPACK-1f2326?style=for-the-badge&logo=webpack" />&nbsp;
 <img alt="vite" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/VITE-1f2326?style=for-the-badge&logo=vite" />&nbsp;
-<br />
 <br />
 
 ### Tools:
@@ -39,13 +36,11 @@
 <img alt="figma" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/FIGMA-1f2326?style=for-the-badge&logo=figma" />&nbsp;
 <img alt="photoshop" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/PHOTOSHOP-1f2326?style=for-the-badge&logo=photoshop" />&nbsp;
 <br />
-<br />
 
 ### Database:
 
 <img alt="mongodb" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/MONGODB-1f2326?style=for-the-badge&logo=mongodb" />&nbsp;
 <img alt="mongoose" align="left"  style="padding-right:10px;" src="https://img.shields.io/badge/MONGOOSE-1f2326?style=for-the-badge&logo=mongoose&logoColor=880000" />&nbsp;
-<br />
 <br />
 
 ### Testing:
