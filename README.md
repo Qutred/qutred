@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Andriy. I am a Frontend-Developer.
 
-### Languages i speak on:
+### 🙊 Languages i speak on:
 
 <img alt="html" align="left"  style="padding-right:5px;" src="https://img.shields.io/badge/HTML-1f2326?style=for-the-badge&logo=html5" />&nbsp;
 <img alt="css" align="left"  style="padding-right:5px;" src="https://img.shields.io/badge/CSS-1f2326?style=for-the-badge&logo=css3&logoColor=38acdf" />&nbsp;
@@ -10,7 +10,7 @@
 <img alt="TypeScript" align="left"  style="padding-right:5px;" src="https://img.shields.io/badge/TypeScript-1f2326?style=for-the-badge&logo=typescript" />
 <br />
 
-### Libs and Frameworks:
+### 📚 Libs and Frameworks:
 
 <img alt="react" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/REACT-1f2326?style=for-the-badge&logo=react" />&nbsp;
 <img alt="redux" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/REDUX-1f2326?style=for-the-badge&logo=redux&logoColor=764ABC" />&nbsp;
@@ -19,14 +19,14 @@
 <img alt="jquery" align="left"  style="padding-right:5px;" src="https://img.shields.io/badge/JQUERY-1f2326?style=for-the-badge&logo=jquery&logoColor=0769AD" />&nbsp;
 <br />
 
-### Building Tools:
+### 🛠️ Building Tools:
 
 <img alt="gulp" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/GULP-1f2326?style=for-the-badge&logo=gulp" />&nbsp;
 <img alt="webpack" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/WEBPACK-1f2326?style=for-the-badge&logo=webpack" />&nbsp;
 <img alt="vite" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/VITE-1f2326?style=for-the-badge&logo=vite" />&nbsp;
 <br />
 
-### Tools:
+### 🔧 Tools:
 
 <img alt="git" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/GIT-1f2326?style=for-the-badge&logo=git" />&nbsp;
 <img alt="githab" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/GITHAB-1f2326?style=for-the-badge&logo=github" />&nbsp;
@@ -37,13 +37,13 @@
 <img alt="photoshop" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/PHOTOSHOP-1f2326?style=for-the-badge&logo=photoshop" />&nbsp;
 <br />
 
-### Database:
+### 🛢️ Database:
 
 <img alt="mongodb" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/MONGODB-1f2326?style=for-the-badge&logo=mongodb" />&nbsp;
 <img alt="mongoose" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/MONGOOSE-1f2326?style=for-the-badge&logo=mongoose&logoColor=880000" />&nbsp;
 <br />
 
-### Testing:
+### 🕵🏻 Testing:
 
 <img alt="jest" align="left"   style="padding-right:5px;" src="https://img.shields.io/badge/JEST-1f2326?style=for-the-badge&logo=jest&logoColor=C21325" />&nbsp;
 
